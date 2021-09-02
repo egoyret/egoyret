@@ -12,6 +12,7 @@ Specialties: Processes improvement. Special Projects. Liason between business an
 And now: Web Full Stack developer with a preference for databases and backend work.
 
 
+This GitHub is not complete yet. I will be adding more info and showcase some of my projects.
 
 
 
