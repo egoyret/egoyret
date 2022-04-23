@@ -11,17 +11,15 @@ Specialties: Processes improvement. Special Projects. Liason between business an
 
 And now: Web Full Stack developer with a preference for databases and backend work.
 
+As of october 2021 I am working for a US based startup called Qrono (https://qrono.dev) that develops infrastructure for booking sites, using JS, React, Redux, Typescript for the front end, and Python, Django, DRF for RESTfull APIs for the back end.
 
 This GitHub is not complete yet. I will be adding more info and showcase some of my projects.
 
 
 
-
-
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in continue making experience with Python, Django and Tetsing (Cypres. Pytest)
+- 🌱 I’m currently learning a lot about testing using Cypress in the front end and Pytest in the backend. Integrations and E2E testing
+- 💞️ I’m looking to collaborate on large projects as a team member, with seniors from who I can continue learning
 - 📫 How to reach me ... Please mail me to egoyret@gmail.com
 
 <!---
